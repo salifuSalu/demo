@@ -8,3 +8,6 @@ this is fun already!
 -git add: this is tracking; meaning you make git aware of the changes
 -git commit: this saves the changes to git
 -git push: this uploads the commit to the remote repository(github)
+
+## Local development
+1. Open index.html in your browser
